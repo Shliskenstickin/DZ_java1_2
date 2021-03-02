@@ -8,7 +8,11 @@
 На тестирование затрачено: 0,03 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Shliskenstickin/DZ-Java-1.1/issues/1
+* https://github.com/Shliskenstickin/DZ_java1_2/issues/1
+* https://github.com/Shliskenstickin/DZ_java1_2/issues/2
+* https://github.com/Shliskenstickin/DZ_java1_2/issues/3
+* https://github.com/Shliskenstickin/DZ_java1_2/issues/4
+* https://github.com/Shliskenstickin/DZ_java1_2/issues/5
 
 ## Описание процесса тестирования
 
@@ -42,20 +46,10 @@
 <br/>3544327118022627
 <br/>3545269547809941591
 
-**Diners Club - North America:**
-<br/>5528472037213942
-<br/>5507076096945719
-<br/>5514511051857450
-
 **Diners Club - Carte Blanche:**
 <br/>30414221492439
 <br/>30126125053303
 <br/>30082990586507
-
-**Diners Club - International:**
-<br/>36801211646475
-<br/>36262232358527
-<br/>36305561337826
 
 **Maestro:**
 <br/>6304599538872293
