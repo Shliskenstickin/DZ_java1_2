@@ -8,11 +8,11 @@
 На тестирование затрачено: 0,03 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Shliskenstickin/DZ_java1_2/issues/1
-* https://github.com/Shliskenstickin/DZ_java1_2/issues/2
-* https://github.com/Shliskenstickin/DZ_java1_2/issues/3
-* https://github.com/Shliskenstickin/DZ_java1_2/issues/4
-* https://github.com/Shliskenstickin/DZ_java1_2/issues/5
+* [Отсутствуют предусловия в Руководстве пользователя](https://github.com/Shliskenstickin/DZ_java1_2/issues/1)
+* [Ввод не валидных значений в программу KeyValidator](https://github.com/Shliskenstickin/DZ_java1_2/issues/2)
+* [В программе KeyValidator не происходит валидация валидного ключа 80b427f8-92cd-3aae-ba04-03927fbe17c6](https://github.com/Shliskenstickin/DZ_java1_2/issues/3)
+* [В программе KeyValidator не происходит валидация валидного ключа 387eedc6-12e9-3b32-9881-63b6b5e85317](https://github.com/Shliskenstickin/DZ_java1_2/issues/4)
+* [В программе KeyValidator происходит валидация не валидного ключа 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/Shliskenstickin/DZ_java1_2/issues/5)
 
 ## Описание процесса тестирования
 
