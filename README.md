@@ -8,10 +8,10 @@
 На тестирование затрачено: 0,03 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Валидатор карт не распознал номер карты VISA длинной более чем 16 цифр](https://github.com/Shliskenstickin/DZ_java1_2/issues/1)
+* [Валидатор карт не распознал номера карт VISA длинной более чем 16 цифр](https://github.com/Shliskenstickin/DZ_java1_2/issues/1)
 * [Валидатор карт не распознал номера карт American Express](https://github.com/Shliskenstickin/DZ_java1_2/issues/2)
-* [Валидатор карт не распознал номер карты Discover длинной более чем 16 цифр](https://github.com/Shliskenstickin/DZ_java1_2/issues/3)
-* [Валидатор карт не распознал номер карты JCB длинной более чем 16 цифр](https://github.com/Shliskenstickin/DZ_java1_2/issues/4)
+* [Валидатор карт не распознал номера карт Discover длинной более чем 16 цифр](https://github.com/Shliskenstickin/DZ_java1_2/issues/3)
+* [Валидатор карт не распознал номера карт JCB длинной более чем 16 цифр](https://github.com/Shliskenstickin/DZ_java1_2/issues/4)
 * [Валидатор карт не распознает карты Diners Club - Carte Blanche](https://github.com/Shliskenstickin/DZ_java1_2/issues/5)
 
 ## Описание процесса тестирования
